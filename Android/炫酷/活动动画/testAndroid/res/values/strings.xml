@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">iaiai - Contact</string>
+	<string name="contact_title">iaiai - Contact</string>
+	
+	<string name="text1">IAIAI 测试</string>
+	<string name="text2">测试跳转效果</string>
+	<string name="next">下一页</string>
+	
+	<string name="detail_process_name">进程名称</string>
+	<string name="kill_process">强制结束</string>
+	<string name="detail_process_copyright">版权信息</string>
+	<string name="detail_process_install_dir">安装目录</string>
+	<string name="detail_process_data_dir">数据目录</string>
+	<string name="detail_process_package_size">文件大小</string>
+	<string name="detail_process_permission">操作权限</string>
+	<string name="detail_process_service">服务信息</string>
+	<string name="detail_process_activity">活动信息</string>
+</resources>  
