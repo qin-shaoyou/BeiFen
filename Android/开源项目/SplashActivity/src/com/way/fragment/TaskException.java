@@ -4,8 +4,8 @@ package com.way.fragment;
 import android.content.res.Resources;
 import android.text.TextUtils;
 
-import com.way.yahoo.App;
-import com.way.yahoo.R;
+import com.way.yahooo.App;
+import com.way.yahooo.R;
 
 /**
  * 应用的异常申明<br/>

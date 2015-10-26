@@ -43,9 +43,9 @@ import com.way.weather.plugin.bean.Forecast;
 import com.way.weather.plugin.bean.RealTime;
 import com.way.weather.plugin.bean.WeatherInfo;
 import com.way.weather.plugin.spider.WeatherSpider;
-import com.way.yahoo.App;
-import com.way.yahoo.MainActivity;
-import com.way.yahoo.R;
+import com.way.yahooo.App;
+import com.way.yahooo.MainActivity;
+import com.way.yahooo.R;
 
 public class WeatherFragment extends Fragment implements ITaskManager,
 		SwipeRefreshLayout.OnRefreshListener {

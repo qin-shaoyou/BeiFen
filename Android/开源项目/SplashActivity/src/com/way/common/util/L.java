@@ -1,6 +1,6 @@
 package com.way.common.util;
 
-import com.way.yahoo.BuildConfig;
+import com.way.yahooo.BuildConfig;
 
 import android.util.Log;
 

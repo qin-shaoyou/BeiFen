@@ -13,7 +13,7 @@ import android.widget.TextView;
 import com.way.beans.Category;
 import com.way.beans.City;
 import com.way.beans.Item;
-import com.way.yahoo.R;
+import com.way.yahooo.R;
 
 public class SideMenuAdapter extends BaseAdapter {
 	private static final int ITEM_TYPE = 0;

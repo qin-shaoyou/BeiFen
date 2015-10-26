@@ -14,7 +14,7 @@ import android.widget.AdapterView;
 import android.widget.GridView;
 
 import com.way.common.util.L;
-import com.way.yahoo.R;
+import com.way.yahooo.R;
 
 @SuppressLint("NewApi")
 public class DragSortGridView extends GridView {

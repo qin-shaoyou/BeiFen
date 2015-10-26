@@ -8,7 +8,7 @@ import android.widget.TextView;
 
 import com.way.weather.plugin.bean.AQI;
 import com.way.weather.plugin.bean.WeatherInfo;
-import com.way.yahoo.R;
+import com.way.yahooo.R;
 
 public class WeatherAqiView extends WeatherBaseView {
 	// 空气质量

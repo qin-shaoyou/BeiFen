@@ -1,4 +1,4 @@
-package com.way.yahoo;
+package com.way.yahooo;
 
 import java.io.File;
 import java.io.FileNotFoundException;

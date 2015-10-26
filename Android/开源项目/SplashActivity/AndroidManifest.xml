@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.way.yahoo"
+    package="com.way.yahooo"
     android:versionCode="20150725"
     android:versionName="2.0.0" >
 
@@ -32,12 +32,12 @@
     <uses-permission android:name="android.permission.GET_TASKS" />
 
     <application
-        android:name="com.way.yahoo.App"
+        android:name="com.way.yahooo.App"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.way.yahoo.SplashActivity"
+            android:name="com.way.yahooo.SplashActivity"
             android:label="@string/app_name"
             android:screenOrientation="portrait" >
             <intent-filter>
@@ -47,17 +47,17 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.way.yahoo.MainActivity"
+            android:name="com.way.yahooo.MainActivity"
             android:label="@string/app_name"
             android:launchMode="singleTop"
             android:screenOrientation="portrait" >
         </activity>
         <activity
-            android:name="com.way.yahoo.ManagerCityActivity"
+            android:name="com.way.yahooo.ManagerCityActivity"
             android:screenOrientation="portrait"
             android:theme="@style/SecondAppTheme" />
         <activity
-            android:name="com.way.yahoo.QueryCityActivity"
+            android:name="com.way.yahooo.QueryCityActivity"
             android:launchMode="singleTop"
             android:screenOrientation="portrait"
             android:theme="@style/SecondAppTheme"
@@ -65,15 +65,15 @@
 
         <provider
             android:name="com.way.db.CityProvider"
-            android:authorities="com.way.yahoo.provider.Citys" />
+            android:authorities="com.way.yahooo.provider.Citys" />
 
         <activity
-            android:name="com.way.yahoo.AboutActivity"
+            android:name="com.way.yahooo.AboutActivity"
             android:screenOrientation="portrait"
             android:theme="@style/SecondAppTheme"
             android:windowSoftInputMode="stateHidden|adjustPan" />
         <activity
-            android:name="com.way.yahoo.FeedBackActivity"
+            android:name="com.way.yahooo.FeedBackActivity"
             android:screenOrientation="portrait"
             android:theme="@style/SecondAppTheme"
             android:windowSoftInputMode="stateHidden|adjustPan" />

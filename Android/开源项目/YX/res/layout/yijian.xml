@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+  android:background="@drawable/bg_cloudy_night"
+    android:orientation="vertical" >
+<RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/abs__action_bar_default_height"
+        android:background="@android:color/transparent" >
+
+        <ImageView
+            android:id="@+id/back_image"
+            android:layout_width="48dip"
+            android:layout_height="48dip"
+            android:layout_alignParentLeft="true"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="8dip"
+            android:clickable="true"
+            android:focusable="true"
+            android:minHeight="@dimen/topbar_icon_size"
+            android:minWidth="@dimen/topbar_icon_size"
+            android:padding="12dip"
+            android:src="@drawable/setting_top_back" />
+
+        <TextView
+            android:id="@+id/city_title"
+            style="@style/Label.Shadow"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="意见反馈"
+            android:textSize="20.0sp" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/nijj"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center" >
+
+        <LinearLayout
+            android:id="@+id/feed"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+         android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:padding="5.0dp" >
+
+            <EditText
+                android:id="@+id/feedback_content_edit"
+                android:layout_width="290dp"
+                android:layout_height="140dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/setting_edit"
+                android:gravity="top"
+                android:hint="     感谢您对我提出意见和建议~ "
+                android:paddingBottom="14.0dp"
+                android:paddingLeft="12.0dp"
+                android:paddingTop="12.0dp"
+                android:singleLine="false"
+                android:textColor="#ff333333"
+                android:textSize="15.0sp" />
+
+            <LinearLayout
+                android:layout_width="298dp"
+                android:layout_height="64dp"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:orientation="horizontal" >
+
+                <EditText
+                    android:id="@+id/feedback_contact_edit"
+                    android:layout_width="280dp"
+                    android:layout_height="48.0dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginTop="5.0dp"
+                    android:background="@drawable/setting_edit"
+                    android:gravity="center_vertical"
+                    android:hint="     联系方式:邮箱/QQ/手机号 (选填)"
+                    android:singleLine="true"
+                    android:textColor="#ff333333"
+                    android:textSize="15.0sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="298dp"
+                android:layout_height="64dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/submit_button333"
+                    android:layout_width="250dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginBottom="5.0dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/select2"
+                    android:padding="10.0dp"
+                    android:text="提交意见"
+                    android:textColor="@color/white"
+                    android:textSize="16.0sp" />
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

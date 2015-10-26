@@ -1,0 +1,115 @@
+# view res/layout/activity_main.xml #generated:17
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view res/layout/weather_fragment.xml #generated:28
+-keep class android.support.v4.widget.SwipeRefreshLayout { <init>(...); }
+
+# view AndroidManifest.xml #generated:109
+-keep class com.baidu.location.f { <init>(...); }
+
+# view res/layout/main.xml #generated:31
+-keep class com.huanying.ScrollerViewPager { <init>(...); }
+
+# view res/layout/main.xml #generated:18
+-keep class com.huanying.SpringIndicator { <init>(...); }
+
+# view res/layout/activity_main_actionbar.xml #generated:65
+-keep class com.viewpagerindicator.CirclePageIndicator { <init>(...); }
+
+# view AndroidManifest.xml #generated:75
+-keep class com.way.db.CityProvider { <init>(...); }
+
+# view res/layout/swipeback_layout.xml #generated:2
+-keep class com.way.ui.swipeback.SwipeBackLayout { <init>(...); }
+
+# view res/layout/count_down_to_location.xml #generated:2
+-keep class com.way.ui.view.CountDownView { <init>(...); }
+
+# view res/layout/city_manager_layout.xml #generated:21
+-keep class com.way.ui.view.DragSortGridView { <init>(...); }
+
+# view res/layout/loading_empty_container.xml #generated:2
+-keep class com.way.ui.view.LoadingEmptyContainer { <init>(...); }
+
+# view res/layout/no_results_message.xml #generated:2
+-keep class com.way.ui.view.NoResultsContainer { <init>(...); }
+
+# view res/layout/weather_aqi.xml #generated:2
+-keep class com.way.ui.view.WeatherAqiView { <init>(...); }
+
+# view res/layout/weather_details.xml #generated:2
+-keep class com.way.ui.view.WeatherDetailsView { <init>(...); }
+
+# view res/layout/weather_forecast.xml #generated:2
+-keep class com.way.ui.view.WeatherForecastView { <init>(...); }
+
+# view res/layout/weather_index.xml #generated:2
+-keep class com.way.ui.view.WeatherIndexView { <init>(...); }
+
+# view res/layout/activity_main_actionbar.xml #generated:53
+# view res/layout/city_manger_grid_item_normal.xml #generated:48
+# view res/layout/weather_aqi.xml #generated:113
+# view res/layout/weather_aqi.xml #generated:28
+# view res/layout/weather_aqi.xml #generated:51
+# view res/layout/weather_aqi.xml #generated:6
+# view res/layout/weather_aqi.xml #generated:65
+# view res/layout/weather_aqi.xml #generated:82
+# view res/layout/weather_aqi.xml #generated:96
+# view res/layout/weather_current_condition.xml #generated:114
+# view res/layout/weather_current_condition.xml #generated:32
+# view res/layout/weather_current_condition.xml #generated:7
+# view res/layout/weather_current_condition.xml #generated:81
+# view res/layout/weather_current_condition.xml #generated:93
+# view res/layout/weather_details.xml #generated:108
+# view res/layout/weather_details.xml #generated:127
+# view res/layout/weather_details.xml #generated:140
+# view res/layout/weather_details.xml #generated:153
+# view res/layout/weather_details.xml #generated:173
+# view res/layout/weather_details.xml #generated:19
+# view res/layout/weather_details.xml #generated:30
+# view res/layout/weather_details.xml #generated:6
+# view res/layout/weather_details.xml #generated:62
+# view res/layout/weather_details.xml #generated:76
+# view res/layout/weather_details.xml #generated:95
+# view res/layout/weather_forecast.xml #generated:7
+# view res/layout/weather_forecast.xml #generated:99
+# view res/layout/weather_forecast_item.xml #generated:10
+# view res/layout/weather_forecast_item.xml #generated:27
+# view res/layout/weather_forecast_item.xml #generated:38
+# view res/layout/weather_index.xml #generated:147
+# view res/layout/weather_index.xml #generated:7
+# view res/layout/weather_index_item.xml #generated:18
+# view res/layout/weather_index_item.xml #generated:39
+# view res/layout/weather_index_item.xml #generated:59
+-keep class com.way.ui.view.WeatherTypefacedTextView { <init>(...); }
+
+# view AndroidManifest.xml #generated:92
+-keep class com.way.upgrade.receiver.DownloadCompleteReveiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:60
+-keep class com.way.yahooo.About { <init>(...); }
+
+# view AndroidManifest.xml #generated:79
+-keep class com.way.yahooo.AboutActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:34
+-keep class com.way.yahooo.App { <init>(...); }
+
+# view AndroidManifest.xml #generated:84
+-keep class com.way.yahooo.FeedBackActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:56
+-keep class com.way.yahooo.ManagerCityActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:68
+-keep class com.way.yahooo.QueryCityActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:64
+-keep class com.way.yahooo.YiJian { <init>(...); }
+
+# view AndroidManifest.xml #generated:39
+-keep class com.way.yahooo.niambi { <init>(...); }
+
+# view AndroidManifest.xml #generated:50
+-keep class shaoyou.MainActivity { <init>(...); }
+

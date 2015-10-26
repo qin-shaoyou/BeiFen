@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.way.yahoo;
+package com.way.yahooo;
 
 public final class R {
     public static final class anim {
@@ -1758,13 +1758,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CirclePageIndicator_android_background android:background}</code></td><td> View background </td></tr>
            <tr><td><code>{@link #CirclePageIndicator_android_orientation android:orientation}</code></td><td> Orientation of the indicator.</td></tr>
-           <tr><td><code>{@link #CirclePageIndicator_centered com.way.yahoo:centered}</code></td><td> Whether or not the indicators should be centered.</td></tr>
-           <tr><td><code>{@link #CirclePageIndicator_fillColor com.way.yahoo:fillColor}</code></td><td> Color of the filled circle that represents the current page.</td></tr>
-           <tr><td><code>{@link #CirclePageIndicator_pageColor com.way.yahoo:pageColor}</code></td><td> Color of the filled circles that represents pages.</td></tr>
-           <tr><td><code>{@link #CirclePageIndicator_radius com.way.yahoo:radius}</code></td><td> Radius of the circles.</td></tr>
-           <tr><td><code>{@link #CirclePageIndicator_snap com.way.yahoo:snap}</code></td><td> Whether or not the selected indicator snaps to the circles.</td></tr>
-           <tr><td><code>{@link #CirclePageIndicator_strokeColor com.way.yahoo:strokeColor}</code></td><td> Color of the open circles.</td></tr>
-           <tr><td><code>{@link #CirclePageIndicator_strokeWidth com.way.yahoo:strokeWidth}</code></td><td> Width of the stroke used to draw the circles.</td></tr>
+           <tr><td><code>{@link #CirclePageIndicator_centered com.way.yahooo:centered}</code></td><td> Whether or not the indicators should be centered.</td></tr>
+           <tr><td><code>{@link #CirclePageIndicator_fillColor com.way.yahooo:fillColor}</code></td><td> Color of the filled circle that represents the current page.</td></tr>
+           <tr><td><code>{@link #CirclePageIndicator_pageColor com.way.yahooo:pageColor}</code></td><td> Color of the filled circles that represents pages.</td></tr>
+           <tr><td><code>{@link #CirclePageIndicator_radius com.way.yahooo:radius}</code></td><td> Radius of the circles.</td></tr>
+           <tr><td><code>{@link #CirclePageIndicator_snap com.way.yahooo:snap}</code></td><td> Whether or not the selected indicator snaps to the circles.</td></tr>
+           <tr><td><code>{@link #CirclePageIndicator_strokeColor com.way.yahooo:strokeColor}</code></td><td> Color of the open circles.</td></tr>
+           <tr><td><code>{@link #CirclePageIndicator_strokeWidth com.way.yahooo:strokeWidth}</code></td><td> Width of the stroke used to draw the circles.</td></tr>
            </table>
            @see #CirclePageIndicator_android_background
            @see #CirclePageIndicator_android_orientation
@@ -1812,7 +1812,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.way.yahoo:centered
+          @attr name com.way.yahooo:centered
         */
         public static final int CirclePageIndicator_centered = 2;
         /**
@@ -1829,7 +1829,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.way.yahoo:fillColor
+          @attr name com.way.yahooo:fillColor
         */
         public static final int CirclePageIndicator_fillColor = 4;
         /**
@@ -1846,7 +1846,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.way.yahoo:pageColor
+          @attr name com.way.yahooo:pageColor
         */
         public static final int CirclePageIndicator_pageColor = 5;
         /**
@@ -1864,7 +1864,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.way.yahoo:radius
+          @attr name com.way.yahooo:radius
         */
         public static final int CirclePageIndicator_radius = 6;
         /**
@@ -1880,7 +1880,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.way.yahoo:snap
+          @attr name com.way.yahooo:snap
         */
         public static final int CirclePageIndicator_snap = 7;
         /**
@@ -1897,7 +1897,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.way.yahoo:strokeColor
+          @attr name com.way.yahooo:strokeColor
         */
         public static final int CirclePageIndicator_strokeColor = 8;
         /**
@@ -1915,7 +1915,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.way.yahoo:strokeWidth
+          @attr name com.way.yahooo:strokeWidth
         */
         public static final int CirclePageIndicator_strokeWidth = 3;
         /** Attributes that can be used with a LinePageIndicator.
@@ -1925,12 +1925,12 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #LinePageIndicator_android_background android:background}</code></td><td> View background </td></tr>
-           <tr><td><code>{@link #LinePageIndicator_centered com.way.yahoo:centered}</code></td><td> Whether or not the indicators should be centered.</td></tr>
-           <tr><td><code>{@link #LinePageIndicator_gapWidth com.way.yahoo:gapWidth}</code></td><td> Width of the gap between each indicator line.</td></tr>
-           <tr><td><code>{@link #LinePageIndicator_lineWidth com.way.yahoo:lineWidth}</code></td><td> Width of each indicator line.</td></tr>
-           <tr><td><code>{@link #LinePageIndicator_selectedColor com.way.yahoo:selectedColor}</code></td><td> Color of the selected line that represents the current page.</td></tr>
-           <tr><td><code>{@link #LinePageIndicator_strokeWidth com.way.yahoo:strokeWidth}</code></td><td> Width of each indicator line's stroke.</td></tr>
-           <tr><td><code>{@link #LinePageIndicator_unselectedColor com.way.yahoo:unselectedColor}</code></td><td> Color of the unselected lines that represent the pages.</td></tr>
+           <tr><td><code>{@link #LinePageIndicator_centered com.way.yahooo:centered}</code></td><td> Whether or not the indicators should be centered.</td></tr>
+           <tr><td><code>{@link #LinePageIndicator_gapWidth com.way.yahooo:gapWidth}</code></td><td> Width of the gap between each indicator line.</td></tr>
+           <tr><td><code>{@link #LinePageIndicator_lineWidth com.way.yahooo:lineWidth}</code></td><td> Width of each indicator line.</td></tr>
+           <tr><td><code>{@link #LinePageIndicator_selectedColor com.way.yahooo:selectedColor}</code></td><td> Color of the selected line that represents the current page.</td></tr>
+           <tr><td><code>{@link #LinePageIndicator_strokeWidth com.way.yahooo:strokeWidth}</code></td><td> Width of each indicator line's stroke.</td></tr>
+           <tr><td><code>{@link #LinePageIndicator_unselectedColor com.way.yahooo:unselectedColor}</code></td><td> Color of the unselected lines that represent the pages.</td></tr>
            </table>
            @see #LinePageIndicator_android_background
            @see #LinePageIndicator_centered
@@ -1966,7 +1966,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.way.yahoo:centered
+          @attr name com.way.yahooo:centered
         */
         public static final int LinePageIndicator_centered = 1;
         /**
@@ -1984,7 +1984,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.way.yahoo:gapWidth
+          @attr name com.way.yahooo:gapWidth
         */
         public static final int LinePageIndicator_gapWidth = 6;
         /**
@@ -2002,7 +2002,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.way.yahoo:lineWidth
+          @attr name com.way.yahooo:lineWidth
         */
         public static final int LinePageIndicator_lineWidth = 5;
         /**
@@ -2019,7 +2019,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.way.yahoo:selectedColor
+          @attr name com.way.yahooo:selectedColor
         */
         public static final int LinePageIndicator_selectedColor = 2;
         /**
@@ -2037,7 +2037,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.way.yahoo:strokeWidth
+          @attr name com.way.yahooo:strokeWidth
         */
         public static final int LinePageIndicator_strokeWidth = 3;
         /**
@@ -2054,7 +2054,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.way.yahoo:unselectedColor
+          @attr name com.way.yahooo:unselectedColor
         */
         public static final int LinePageIndicator_unselectedColor = 4;
         /**  Styleables used for styling the menu drawer. 
@@ -2063,22 +2063,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuDrawer_mdActiveIndicator com.way.yahoo:mdActiveIndicator}</code></td><td> Drawable used as indicator for the active view.</td></tr>
-           <tr><td><code>{@link #MenuDrawer_mdAllowIndicatorAnimation com.way.yahoo:mdAllowIndicatorAnimation}</code></td><td> Whether the indicator should be animated between active views.</td></tr>
-           <tr><td><code>{@link #MenuDrawer_mdContentBackground com.way.yahoo:mdContentBackground}</code></td><td> Drawable to use for the background of the content.</td></tr>
-           <tr><td><code>{@link #MenuDrawer_mdDrawOverlay com.way.yahoo:mdDrawOverlay}</code></td><td> Whether an overlay should be drawn as the drawer is opened and closed </td></tr>
-           <tr><td><code>{@link #MenuDrawer_mdDrawerClosedUpContentDescription com.way.yahoo:mdDrawerClosedUpContentDescription}</code></td><td> String to use as the up indicators content description when the drawer is closed </td></tr>
-           <tr><td><code>{@link #MenuDrawer_mdDrawerOpenUpContentDescription com.way.yahoo:mdDrawerOpenUpContentDescription}</code></td><td> String to use as the up indicators content description when the drawer is open </td></tr>
-           <tr><td><code>{@link #MenuDrawer_mdDropShadow com.way.yahoo:mdDropShadow}</code></td><td> Drawable used for the drop shadow.</td></tr>
-           <tr><td><code>{@link #MenuDrawer_mdDropShadowColor com.way.yahoo:mdDropShadowColor}</code></td><td> The color of the drop shadow.</td></tr>
-           <tr><td><code>{@link #MenuDrawer_mdDropShadowEnabled com.way.yahoo:mdDropShadowEnabled}</code></td><td> Defines whether the content will have a dropshadow onto the menu.</td></tr>
-           <tr><td><code>{@link #MenuDrawer_mdDropShadowSize com.way.yahoo:mdDropShadowSize}</code></td><td> The size of the drop shadow.</td></tr>
-           <tr><td><code>{@link #MenuDrawer_mdMaxAnimationDuration com.way.yahoo:mdMaxAnimationDuration}</code></td><td> The maximum animation duration </td></tr>
-           <tr><td><code>{@link #MenuDrawer_mdMenuBackground com.way.yahoo:mdMenuBackground}</code></td><td> Drawable to use for the background of the menu.</td></tr>
-           <tr><td><code>{@link #MenuDrawer_mdMenuSize com.way.yahoo:mdMenuSize}</code></td><td> The size of the menu.</td></tr>
-           <tr><td><code>{@link #MenuDrawer_mdPosition com.way.yahoo:mdPosition}</code></td><td> The position of the drawer </td></tr>
-           <tr><td><code>{@link #MenuDrawer_mdSlideDrawable com.way.yahoo:mdSlideDrawable}</code></td><td> Drawable that replaces the up indicator </td></tr>
-           <tr><td><code>{@link #MenuDrawer_mdTouchBezelSize com.way.yahoo:mdTouchBezelSize}</code></td><td> The touch bezel size.</td></tr>
+           <tr><td><code>{@link #MenuDrawer_mdActiveIndicator com.way.yahooo:mdActiveIndicator}</code></td><td> Drawable used as indicator for the active view.</td></tr>
+           <tr><td><code>{@link #MenuDrawer_mdAllowIndicatorAnimation com.way.yahooo:mdAllowIndicatorAnimation}</code></td><td> Whether the indicator should be animated between active views.</td></tr>
+           <tr><td><code>{@link #MenuDrawer_mdContentBackground com.way.yahooo:mdContentBackground}</code></td><td> Drawable to use for the background of the content.</td></tr>
+           <tr><td><code>{@link #MenuDrawer_mdDrawOverlay com.way.yahooo:mdDrawOverlay}</code></td><td> Whether an overlay should be drawn as the drawer is opened and closed </td></tr>
+           <tr><td><code>{@link #MenuDrawer_mdDrawerClosedUpContentDescription com.way.yahooo:mdDrawerClosedUpContentDescription}</code></td><td> String to use as the up indicators content description when the drawer is closed </td></tr>
+           <tr><td><code>{@link #MenuDrawer_mdDrawerOpenUpContentDescription com.way.yahooo:mdDrawerOpenUpContentDescription}</code></td><td> String to use as the up indicators content description when the drawer is open </td></tr>
+           <tr><td><code>{@link #MenuDrawer_mdDropShadow com.way.yahooo:mdDropShadow}</code></td><td> Drawable used for the drop shadow.</td></tr>
+           <tr><td><code>{@link #MenuDrawer_mdDropShadowColor com.way.yahooo:mdDropShadowColor}</code></td><td> The color of the drop shadow.</td></tr>
+           <tr><td><code>{@link #MenuDrawer_mdDropShadowEnabled com.way.yahooo:mdDropShadowEnabled}</code></td><td> Defines whether the content will have a dropshadow onto the menu.</td></tr>
+           <tr><td><code>{@link #MenuDrawer_mdDropShadowSize com.way.yahooo:mdDropShadowSize}</code></td><td> The size of the drop shadow.</td></tr>
+           <tr><td><code>{@link #MenuDrawer_mdMaxAnimationDuration com.way.yahooo:mdMaxAnimationDuration}</code></td><td> The maximum animation duration </td></tr>
+           <tr><td><code>{@link #MenuDrawer_mdMenuBackground com.way.yahooo:mdMenuBackground}</code></td><td> Drawable to use for the background of the menu.</td></tr>
+           <tr><td><code>{@link #MenuDrawer_mdMenuSize com.way.yahooo:mdMenuSize}</code></td><td> The size of the menu.</td></tr>
+           <tr><td><code>{@link #MenuDrawer_mdPosition com.way.yahooo:mdPosition}</code></td><td> The position of the drawer </td></tr>
+           <tr><td><code>{@link #MenuDrawer_mdSlideDrawable com.way.yahooo:mdSlideDrawable}</code></td><td> Drawable that replaces the up indicator </td></tr>
+           <tr><td><code>{@link #MenuDrawer_mdTouchBezelSize com.way.yahooo:mdTouchBezelSize}</code></td><td> The touch bezel size.</td></tr>
            </table>
            @see #MenuDrawer_mdActiveIndicator
            @see #MenuDrawer_mdAllowIndicatorAnimation
@@ -2112,7 +2112,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.way.yahoo:mdActiveIndicator
+          @attr name com.way.yahooo:mdActiveIndicator
         */
         public static final int MenuDrawer_mdActiveIndicator = 3;
         /**
@@ -2128,7 +2128,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.way.yahoo:mdAllowIndicatorAnimation
+          @attr name com.way.yahooo:mdAllowIndicatorAnimation
         */
         public static final int MenuDrawer_mdAllowIndicatorAnimation = 9;
         /**
@@ -2140,7 +2140,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.way.yahoo:mdContentBackground
+          @attr name com.way.yahooo:mdContentBackground
         */
         public static final int MenuDrawer_mdContentBackground = 0;
         /**
@@ -2156,7 +2156,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.way.yahoo:mdDrawOverlay
+          @attr name com.way.yahooo:mdDrawOverlay
         */
         public static final int MenuDrawer_mdDrawOverlay = 14;
         /**
@@ -2172,7 +2172,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.way.yahoo:mdDrawerClosedUpContentDescription
+          @attr name com.way.yahooo:mdDrawerClosedUpContentDescription
         */
         public static final int MenuDrawer_mdDrawerClosedUpContentDescription = 13;
         /**
@@ -2188,7 +2188,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.way.yahoo:mdDrawerOpenUpContentDescription
+          @attr name com.way.yahooo:mdDrawerOpenUpContentDescription
         */
         public static final int MenuDrawer_mdDrawerOpenUpContentDescription = 12;
         /**
@@ -2200,7 +2200,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.way.yahoo:mdDropShadow
+          @attr name com.way.yahooo:mdDropShadow
         */
         public static final int MenuDrawer_mdDropShadow = 7;
         /**
@@ -2217,7 +2217,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.way.yahoo:mdDropShadowColor
+          @attr name com.way.yahooo:mdDropShadowColor
         */
         public static final int MenuDrawer_mdDropShadowColor = 6;
         /**
@@ -2233,7 +2233,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.way.yahoo:mdDropShadowEnabled
+          @attr name com.way.yahooo:mdDropShadowEnabled
         */
         public static final int MenuDrawer_mdDropShadowEnabled = 4;
         /**
@@ -2251,7 +2251,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.way.yahoo:mdDropShadowSize
+          @attr name com.way.yahooo:mdDropShadowSize
         */
         public static final int MenuDrawer_mdDropShadowSize = 5;
         /**
@@ -2267,7 +2267,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.way.yahoo:mdMaxAnimationDuration
+          @attr name com.way.yahooo:mdMaxAnimationDuration
         */
         public static final int MenuDrawer_mdMaxAnimationDuration = 10;
         /**
@@ -2279,7 +2279,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.way.yahoo:mdMenuBackground
+          @attr name com.way.yahooo:mdMenuBackground
         */
         public static final int MenuDrawer_mdMenuBackground = 1;
         /**
@@ -2297,7 +2297,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.way.yahoo:mdMenuSize
+          @attr name com.way.yahooo:mdMenuSize
         */
         public static final int MenuDrawer_mdMenuSize = 2;
         /**
@@ -2320,7 +2320,7 @@ containing a value of this type.
 <tr><td><code>end</code></td><td>5</td><td></td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.way.yahoo:mdPosition
+          @attr name com.way.yahooo:mdPosition
         */
         public static final int MenuDrawer_mdPosition = 15;
         /**
@@ -2332,7 +2332,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.way.yahoo:mdSlideDrawable
+          @attr name com.way.yahooo:mdSlideDrawable
         */
         public static final int MenuDrawer_mdSlideDrawable = 11;
         /**
@@ -2350,7 +2350,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.way.yahoo:mdTouchBezelSize
+          @attr name com.way.yahooo:mdTouchBezelSize
         */
         public static final int MenuDrawer_mdTouchBezelSize = 8;
         /**  滑动返回style声明 
@@ -2359,11 +2359,11 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #SwipeBackLayout_edge_flag com.way.yahoo:edge_flag}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwipeBackLayout_edge_size com.way.yahoo:edge_size}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwipeBackLayout_shadow_bottom com.way.yahoo:shadow_bottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwipeBackLayout_shadow_left com.way.yahoo:shadow_left}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwipeBackLayout_shadow_right com.way.yahoo:shadow_right}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwipeBackLayout_edge_flag com.way.yahooo:edge_flag}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwipeBackLayout_edge_size com.way.yahooo:edge_size}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwipeBackLayout_shadow_bottom com.way.yahooo:shadow_bottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwipeBackLayout_shadow_left com.way.yahooo:shadow_left}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwipeBackLayout_shadow_right com.way.yahooo:shadow_right}</code></td><td></td></tr>
            </table>
            @see #SwipeBackLayout_edge_flag
            @see #SwipeBackLayout_edge_size
@@ -2376,7 +2376,7 @@ containing a value of this type.
             0x7f010016
         };
         /**
-          <p>This symbol is the offset where the {@link com.way.yahoo.R.attr#edge_flag}
+          <p>This symbol is the offset where the {@link com.way.yahooo.R.attr#edge_flag}
           attribute's value can be found in the {@link #SwipeBackLayout} array.
 
 
@@ -2391,11 +2391,11 @@ containing a value of this type.
 <tr><td><code>bottom</code></td><td>2</td><td></td></tr>
 <tr><td><code>all</code></td><td>3</td><td></td></tr>
 </table>
-          @attr name com.way.yahoo:edge_flag
+          @attr name com.way.yahooo:edge_flag
         */
         public static final int SwipeBackLayout_edge_flag = 1;
         /**
-          <p>This symbol is the offset where the {@link com.way.yahoo.R.attr#edge_size}
+          <p>This symbol is the offset where the {@link com.way.yahooo.R.attr#edge_size}
           attribute's value can be found in the {@link #SwipeBackLayout} array.
 
 
@@ -2407,37 +2407,37 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.way.yahoo:edge_size
+          @attr name com.way.yahooo:edge_size
         */
         public static final int SwipeBackLayout_edge_size = 0;
         /**
-          <p>This symbol is the offset where the {@link com.way.yahoo.R.attr#shadow_bottom}
+          <p>This symbol is the offset where the {@link com.way.yahooo.R.attr#shadow_bottom}
           attribute's value can be found in the {@link #SwipeBackLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.way.yahoo:shadow_bottom
+          @attr name com.way.yahooo:shadow_bottom
         */
         public static final int SwipeBackLayout_shadow_bottom = 4;
         /**
-          <p>This symbol is the offset where the {@link com.way.yahoo.R.attr#shadow_left}
+          <p>This symbol is the offset where the {@link com.way.yahooo.R.attr#shadow_left}
           attribute's value can be found in the {@link #SwipeBackLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.way.yahoo:shadow_left
+          @attr name com.way.yahooo:shadow_left
         */
         public static final int SwipeBackLayout_shadow_left = 2;
         /**
-          <p>This symbol is the offset where the {@link com.way.yahoo.R.attr#shadow_right}
+          <p>This symbol is the offset where the {@link com.way.yahooo.R.attr#shadow_right}
           attribute's value can be found in the {@link #SwipeBackLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.way.yahoo:shadow_right
+          @attr name com.way.yahooo:shadow_right
         */
         public static final int SwipeBackLayout_shadow_right = 3;
         /** Attributes that can be used with a TitlePageIndicator.
@@ -2449,18 +2449,18 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #TitlePageIndicator_android_background android:background}</code></td><td> View background </td></tr>
            <tr><td><code>{@link #TitlePageIndicator_android_textColor android:textColor}</code></td><td> Color of regular titles.</td></tr>
            <tr><td><code>{@link #TitlePageIndicator_android_textSize android:textSize}</code></td><td> Size of title text.</td></tr>
-           <tr><td><code>{@link #TitlePageIndicator_clipPadding com.way.yahoo:clipPadding}</code></td><td> Screen edge padding.</td></tr>
-           <tr><td><code>{@link #TitlePageIndicator_footerColor com.way.yahoo:footerColor}</code></td><td> Color of the footer line and indicator.</td></tr>
-           <tr><td><code>{@link #TitlePageIndicator_footerIndicatorHeight com.way.yahoo:footerIndicatorHeight}</code></td><td> Height of the indicator above the footer line.</td></tr>
-           <tr><td><code>{@link #TitlePageIndicator_footerIndicatorStyle com.way.yahoo:footerIndicatorStyle}</code></td><td> Style of the indicator.</td></tr>
-           <tr><td><code>{@link #TitlePageIndicator_footerIndicatorUnderlinePadding com.way.yahoo:footerIndicatorUnderlinePadding}</code></td><td> Left and right padding of the underline indicator.</td></tr>
-           <tr><td><code>{@link #TitlePageIndicator_footerLineHeight com.way.yahoo:footerLineHeight}</code></td><td> Height of the footer line.</td></tr>
-           <tr><td><code>{@link #TitlePageIndicator_footerPadding com.way.yahoo:footerPadding}</code></td><td> Padding between the bottom of the title and the footer.</td></tr>
-           <tr><td><code>{@link #TitlePageIndicator_linePosition com.way.yahoo:linePosition}</code></td><td> Position of the line.</td></tr>
-           <tr><td><code>{@link #TitlePageIndicator_selectedBold com.way.yahoo:selectedBold}</code></td><td> Whether or not the selected item is displayed as bold.</td></tr>
-           <tr><td><code>{@link #TitlePageIndicator_selectedColor com.way.yahoo:selectedColor}</code></td><td> Color of the selected title.</td></tr>
-           <tr><td><code>{@link #TitlePageIndicator_titlePadding com.way.yahoo:titlePadding}</code></td><td> Padding between titles when bumping into each other.</td></tr>
-           <tr><td><code>{@link #TitlePageIndicator_topPadding com.way.yahoo:topPadding}</code></td><td> Padding between titles and the top of the View.</td></tr>
+           <tr><td><code>{@link #TitlePageIndicator_clipPadding com.way.yahooo:clipPadding}</code></td><td> Screen edge padding.</td></tr>
+           <tr><td><code>{@link #TitlePageIndicator_footerColor com.way.yahooo:footerColor}</code></td><td> Color of the footer line and indicator.</td></tr>
+           <tr><td><code>{@link #TitlePageIndicator_footerIndicatorHeight com.way.yahooo:footerIndicatorHeight}</code></td><td> Height of the indicator above the footer line.</td></tr>
+           <tr><td><code>{@link #TitlePageIndicator_footerIndicatorStyle com.way.yahooo:footerIndicatorStyle}</code></td><td> Style of the indicator.</td></tr>
+           <tr><td><code>{@link #TitlePageIndicator_footerIndicatorUnderlinePadding com.way.yahooo:footerIndicatorUnderlinePadding}</code></td><td> Left and right padding of the underline indicator.</td></tr>
+           <tr><td><code>{@link #TitlePageIndicator_footerLineHeight com.way.yahooo:footerLineHeight}</code></td><td> Height of the footer line.</td></tr>
+           <tr><td><code>{@link #TitlePageIndicator_footerPadding com.way.yahooo:footerPadding}</code></td><td> Padding between the bottom of the title and the footer.</td></tr>
+           <tr><td><code>{@link #TitlePageIndicator_linePosition com.way.yahooo:linePosition}</code></td><td> Position of the line.</td></tr>
+           <tr><td><code>{@link #TitlePageIndicator_selectedBold com.way.yahooo:selectedBold}</code></td><td> Whether or not the selected item is displayed as bold.</td></tr>
+           <tr><td><code>{@link #TitlePageIndicator_selectedColor com.way.yahooo:selectedColor}</code></td><td> Color of the selected title.</td></tr>
+           <tr><td><code>{@link #TitlePageIndicator_titlePadding com.way.yahooo:titlePadding}</code></td><td> Padding between titles when bumping into each other.</td></tr>
+           <tr><td><code>{@link #TitlePageIndicator_topPadding com.way.yahooo:topPadding}</code></td><td> Padding between titles and the top of the View.</td></tr>
            </table>
            @see #TitlePageIndicator_android_background
            @see #TitlePageIndicator_android_textColor
@@ -2526,7 +2526,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.way.yahoo:clipPadding
+          @attr name com.way.yahooo:clipPadding
         */
         public static final int TitlePageIndicator_clipPadding = 4;
         /**
@@ -2543,7 +2543,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.way.yahoo:footerColor
+          @attr name com.way.yahooo:footerColor
         */
         public static final int TitlePageIndicator_footerColor = 5;
         /**
@@ -2561,7 +2561,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.way.yahoo:footerIndicatorHeight
+          @attr name com.way.yahooo:footerIndicatorHeight
         */
         public static final int TitlePageIndicator_footerIndicatorHeight = 8;
         /**
@@ -2581,7 +2581,7 @@ containing a value of this type.
 <tr><td><code>underline</code></td><td>2</td><td></td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.way.yahoo:footerIndicatorStyle
+          @attr name com.way.yahooo:footerIndicatorStyle
         */
         public static final int TitlePageIndicator_footerIndicatorStyle = 7;
         /**
@@ -2599,7 +2599,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.way.yahoo:footerIndicatorUnderlinePadding
+          @attr name com.way.yahooo:footerIndicatorUnderlinePadding
         */
         public static final int TitlePageIndicator_footerIndicatorUnderlinePadding = 9;
         /**
@@ -2617,7 +2617,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.way.yahoo:footerLineHeight
+          @attr name com.way.yahooo:footerLineHeight
         */
         public static final int TitlePageIndicator_footerLineHeight = 6;
         /**
@@ -2635,7 +2635,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.way.yahoo:footerPadding
+          @attr name com.way.yahooo:footerPadding
         */
         public static final int TitlePageIndicator_footerPadding = 10;
         /**
@@ -2654,7 +2654,7 @@ containing a value of this type.
 <tr><td><code>top</code></td><td>1</td><td></td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.way.yahoo:linePosition
+          @attr name com.way.yahooo:linePosition
         */
         public static final int TitlePageIndicator_linePosition = 11;
         /**
@@ -2670,7 +2670,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.way.yahoo:selectedBold
+          @attr name com.way.yahooo:selectedBold
         */
         public static final int TitlePageIndicator_selectedBold = 12;
         /**
@@ -2687,7 +2687,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.way.yahoo:selectedColor
+          @attr name com.way.yahooo:selectedColor
         */
         public static final int TitlePageIndicator_selectedColor = 3;
         /**
@@ -2705,7 +2705,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.way.yahoo:titlePadding
+          @attr name com.way.yahooo:titlePadding
         */
         public static final int TitlePageIndicator_titlePadding = 13;
         /**
@@ -2723,7 +2723,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.way.yahoo:topPadding
+          @attr name com.way.yahooo:topPadding
         */
         public static final int TitlePageIndicator_topPadding = 14;
         /** Attributes that can be used with a UnderlinePageIndicator.
@@ -2733,10 +2733,10 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #UnderlinePageIndicator_android_background android:background}</code></td><td> View background </td></tr>
-           <tr><td><code>{@link #UnderlinePageIndicator_fadeDelay com.way.yahoo:fadeDelay}</code></td><td> Length of the delay to fade the indicator.</td></tr>
-           <tr><td><code>{@link #UnderlinePageIndicator_fadeLength com.way.yahoo:fadeLength}</code></td><td> Length of the indicator fade to transparent.</td></tr>
-           <tr><td><code>{@link #UnderlinePageIndicator_fades com.way.yahoo:fades}</code></td><td> Whether or not the selected indicator fades.</td></tr>
-           <tr><td><code>{@link #UnderlinePageIndicator_selectedColor com.way.yahoo:selectedColor}</code></td><td> Color of the selected line that represents the current page.</td></tr>
+           <tr><td><code>{@link #UnderlinePageIndicator_fadeDelay com.way.yahooo:fadeDelay}</code></td><td> Length of the delay to fade the indicator.</td></tr>
+           <tr><td><code>{@link #UnderlinePageIndicator_fadeLength com.way.yahooo:fadeLength}</code></td><td> Length of the indicator fade to transparent.</td></tr>
+           <tr><td><code>{@link #UnderlinePageIndicator_fades com.way.yahooo:fades}</code></td><td> Whether or not the selected indicator fades.</td></tr>
+           <tr><td><code>{@link #UnderlinePageIndicator_selectedColor com.way.yahooo:selectedColor}</code></td><td> Color of the selected line that represents the current page.</td></tr>
            </table>
            @see #UnderlinePageIndicator_android_background
            @see #UnderlinePageIndicator_fadeDelay
@@ -2770,7 +2770,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.way.yahoo:fadeDelay
+          @attr name com.way.yahooo:fadeDelay
         */
         public static final int UnderlinePageIndicator_fadeDelay = 3;
         /**
@@ -2786,7 +2786,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.way.yahoo:fadeLength
+          @attr name com.way.yahooo:fadeLength
         */
         public static final int UnderlinePageIndicator_fadeLength = 4;
         /**
@@ -2802,7 +2802,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.way.yahoo:fades
+          @attr name com.way.yahooo:fades
         */
         public static final int UnderlinePageIndicator_fades = 2;
         /**
@@ -2819,7 +2819,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.way.yahoo:selectedColor
+          @attr name com.way.yahooo:selectedColor
         */
         public static final int UnderlinePageIndicator_selectedColor = 1;
         /** Attributes that can be used with a ViewPagerIndicator.
@@ -2828,12 +2828,12 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ViewPagerIndicator_vpiCirclePageIndicatorStyle com.way.yahoo:vpiCirclePageIndicatorStyle}</code></td><td> Style of the circle indicator.</td></tr>
-           <tr><td><code>{@link #ViewPagerIndicator_vpiIconPageIndicatorStyle com.way.yahoo:vpiIconPageIndicatorStyle}</code></td><td> Style of the icon indicator's views.</td></tr>
-           <tr><td><code>{@link #ViewPagerIndicator_vpiLinePageIndicatorStyle com.way.yahoo:vpiLinePageIndicatorStyle}</code></td><td> Style of the line indicator.</td></tr>
-           <tr><td><code>{@link #ViewPagerIndicator_vpiTabPageIndicatorStyle com.way.yahoo:vpiTabPageIndicatorStyle}</code></td><td> Style of the tab indicator's tabs.</td></tr>
-           <tr><td><code>{@link #ViewPagerIndicator_vpiTitlePageIndicatorStyle com.way.yahoo:vpiTitlePageIndicatorStyle}</code></td><td> Style of the title indicator.</td></tr>
-           <tr><td><code>{@link #ViewPagerIndicator_vpiUnderlinePageIndicatorStyle com.way.yahoo:vpiUnderlinePageIndicatorStyle}</code></td><td> Style of the underline indicator.</td></tr>
+           <tr><td><code>{@link #ViewPagerIndicator_vpiCirclePageIndicatorStyle com.way.yahooo:vpiCirclePageIndicatorStyle}</code></td><td> Style of the circle indicator.</td></tr>
+           <tr><td><code>{@link #ViewPagerIndicator_vpiIconPageIndicatorStyle com.way.yahooo:vpiIconPageIndicatorStyle}</code></td><td> Style of the icon indicator's views.</td></tr>
+           <tr><td><code>{@link #ViewPagerIndicator_vpiLinePageIndicatorStyle com.way.yahooo:vpiLinePageIndicatorStyle}</code></td><td> Style of the line indicator.</td></tr>
+           <tr><td><code>{@link #ViewPagerIndicator_vpiTabPageIndicatorStyle com.way.yahooo:vpiTabPageIndicatorStyle}</code></td><td> Style of the tab indicator's tabs.</td></tr>
+           <tr><td><code>{@link #ViewPagerIndicator_vpiTitlePageIndicatorStyle com.way.yahooo:vpiTitlePageIndicatorStyle}</code></td><td> Style of the title indicator.</td></tr>
+           <tr><td><code>{@link #ViewPagerIndicator_vpiUnderlinePageIndicatorStyle com.way.yahooo:vpiUnderlinePageIndicatorStyle}</code></td><td> Style of the underline indicator.</td></tr>
            </table>
            @see #ViewPagerIndicator_vpiCirclePageIndicatorStyle
            @see #ViewPagerIndicator_vpiIconPageIndicatorStyle
@@ -2855,7 +2855,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.way.yahoo:vpiCirclePageIndicatorStyle
+          @attr name com.way.yahooo:vpiCirclePageIndicatorStyle
         */
         public static final int ViewPagerIndicator_vpiCirclePageIndicatorStyle = 0;
         /**
@@ -2867,7 +2867,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.way.yahoo:vpiIconPageIndicatorStyle
+          @attr name com.way.yahooo:vpiIconPageIndicatorStyle
         */
         public static final int ViewPagerIndicator_vpiIconPageIndicatorStyle = 1;
         /**
@@ -2879,7 +2879,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.way.yahoo:vpiLinePageIndicatorStyle
+          @attr name com.way.yahooo:vpiLinePageIndicatorStyle
         */
         public static final int ViewPagerIndicator_vpiLinePageIndicatorStyle = 2;
         /**
@@ -2891,7 +2891,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.way.yahoo:vpiTabPageIndicatorStyle
+          @attr name com.way.yahooo:vpiTabPageIndicatorStyle
         */
         public static final int ViewPagerIndicator_vpiTabPageIndicatorStyle = 4;
         /**
@@ -2903,7 +2903,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.way.yahoo:vpiTitlePageIndicatorStyle
+          @attr name com.way.yahooo:vpiTitlePageIndicatorStyle
         */
         public static final int ViewPagerIndicator_vpiTitlePageIndicatorStyle = 3;
         /**
@@ -2915,7 +2915,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.way.yahoo:vpiUnderlinePageIndicatorStyle
+          @attr name com.way.yahooo:vpiUnderlinePageIndicatorStyle
         */
         public static final int ViewPagerIndicator_vpiUnderlinePageIndicatorStyle = 5;
         /** Attributes that can be used with a WeatherTypefacedTextView.
@@ -2924,7 +2924,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #WeatherTypefacedTextView_typeface com.way.yahoo:typeface}</code></td><td></td></tr>
+           <tr><td><code>{@link #WeatherTypefacedTextView_typeface com.way.yahooo:typeface}</code></td><td></td></tr>
            </table>
            @see #WeatherTypefacedTextView_typeface
          */
@@ -2932,7 +2932,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010000
         };
         /**
-          <p>This symbol is the offset where the {@link com.way.yahoo.R.attr#typeface}
+          <p>This symbol is the offset where the {@link com.way.yahooo.R.attr#typeface}
           attribute's value can be found in the {@link #WeatherTypefacedTextView} array.
 
 
@@ -2942,7 +2942,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.way.yahoo:typeface
+          @attr name com.way.yahooo:typeface
         */
         public static final int WeatherTypefacedTextView_typeface = 0;
     };

@@ -13,8 +13,8 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.way.yahoo.App;
-import com.way.yahoo.R;
+import com.way.yahooo.App;
+import com.way.yahooo.R;
 
 /**
  * Created by wangdan on 15-1-16.

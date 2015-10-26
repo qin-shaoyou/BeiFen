@@ -15,7 +15,7 @@ import com.way.ui.view.WeatherBaseView;
 import com.way.weather.plugin.bean.AQI;
 import com.way.weather.plugin.bean.WeatherInfo;
 import com.way.weather.plugin.spider.WeatherSpider;
-import com.way.yahoo.R;
+import com.way.yahooo.R;
 
 public class WeatherListAdapter extends BaseAdapter {
 	private final HashMap<Integer, WeatherBaseView> mWeatherBaseViews = new HashMap<Integer, WeatherBaseView>();

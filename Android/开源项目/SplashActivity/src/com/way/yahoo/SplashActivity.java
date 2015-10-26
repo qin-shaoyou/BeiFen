@@ -1,4 +1,4 @@
-package com.way.yahoo;
+package com.way.yahooo;
 
 import android.app.Activity;
 import android.content.Intent;
